@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh
 
-<!--
-**devbyharsh/devbyharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning JavaScript  
+💻 I’m building my logic step by step  
+🚀 Goal: Become a professional web developer  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- HTML
+- CSS
+- JavaScript (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Focus
+- Problem solving
+- Logic building
